@@ -1,5 +1,7 @@
 # Программа произведения двух квадратных матриц в многопоточном приложении
 
+[![Tests](https://github.com/TimeToRave/ParallelMatrixMultiplication/actions/workflows/Tests.yml/badge.svg)](https://github.com/TimeToRave/ParallelMatrixMultiplication/actions/workflows/Tests.yml)
+
 ## Дано
 
 Две матрицы A и B размерности NxN
